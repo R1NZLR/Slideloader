@@ -1,4 +1,4 @@
-# ++ Tweak Sideloader
+# Tweak Sideloader
 
 This is an Xcode project that will make installing ++ tweaks on a non-jailbroken device super simple. Tested on Xcode 7.3
 
@@ -16,7 +16,7 @@ Supported Apps/Tweaks:
   - Twitter ++
   - Vine ++
 
-Descriptions at http://beta.unlimapps.com/
+
 
 ***How-To Video:*** https://youtu.be/SmV4A_p7WWY
 
